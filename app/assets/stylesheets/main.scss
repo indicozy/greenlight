@@ -47,7 +47,7 @@
     text-align: center;
     span {
       font-size: 120%;
-      background-color: #ffffff;
+      background-color: #f2f2ec;
       padding: 0 10px;
       color: #d3d3d3
     }
@@ -72,7 +72,7 @@
   margin-bottom:20px;
   &:hover {
     cursor: pointer;
-    color: #ffffff;
+    color: #f2f2ec;
     -webkit-box-shadow: 0 0 3px 3px rgba(66,133,244,.3);
     box-shadow: 0 0 3px 3px rgba(66,133,244,.3);
   }
@@ -82,7 +82,7 @@
     vertical-align: middle;
     padding:13px 15px 13px 15px;
     float:left;
-    background: #ffffff;
+    background: #f2f2ec;
   }
 
   .customBtn-text {
@@ -116,7 +116,7 @@
   background: #1da1f2;
 
   .customBtn-image {
-    background: #ffffff image-url("twitter-logo.png") no-repeat left top;
+    background: #f2f2ec image-url("twitter-logo.png") no-repeat left top;
     background-size: 18px 18px;
     padding:10px 10px 10px 10px;
   }
@@ -127,7 +127,7 @@
   background: #f65314;
 
   .customBtn-image {
-    background: #ffffff image-url("office365-logo.jpeg") no-repeat left top;
+    background: #f2f2ec image-url("office365-logo.jpeg") no-repeat left top;
     background-size: 18px 18px;
     padding:10px 10px 10px 10px;
   }
@@ -138,7 +138,7 @@
   background: #00a1f1;
 
   .customBtn-image {
-    background: #ffffff image-url("windows-logo.png") no-repeat left top;
+    background: #f2f2ec image-url("windows-logo.png") no-repeat left top;
     background-size: 18px 18px;
     padding:10px 10px 10px 10px;
   }
@@ -149,7 +149,7 @@
   background: #d61515;
 
   .customBtn-image {
-    background: #ffffff image-url("ldap-logo.png") no-repeat left top;
+    background: #f2f2ec image-url("ldap-logo.png") no-repeat left top;
     background-size: 18px 18px;
     padding:10px 10px 10px 10px;
   }
@@ -160,7 +160,7 @@
   background: #ef8e1f;
 
   .customBtn-image {
-    background: #ffffff image-url("openid-logo.png") no-repeat left top;
+    background: #f2f2ec image-url("openid-logo.png") no-repeat left top;
     background-size: 18px 18px;
     padding:10px 10px 10px 10px;
   }
