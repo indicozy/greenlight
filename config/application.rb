@@ -145,16 +145,16 @@ module Greenlight
     # DEFAULTS
 
     # Default branding image if the user does not specify one
-    config.branding_image_default = "https://raw.githubusercontent.com/bigbluebutton/greenlight/master/app/assets/images/logo_with_text.png"
+    config.branding_image_default = "https://github.com/indicozy/greenlight/blob/custom-changes/app/assets/images/logo_with_text.png"
 
     # Default primary color if the user does not specify one
-    config.primary_color_default = "#467fcf"
+    config.primary_color_default = "#edbb5b"
 
     # Default primary color lighten if the user does not specify one
-    config.primary_color_lighten_default = "#e8eff9"
+    config.primary_color_lighten_default = "#f9f3e8"
 
     # Default primary color darken if the user does not specify one
-    config.primary_color_darken_default = "#316cbe"
+    config.primary_color_darken_default = "#be8d31"
 
     # Default registration method if the user does not specify one
     config.registration_method_default = case ENV["DEFAULT_REGISTRATION"]
@@ -167,7 +167,7 @@ module Greenlight
     end
 
     # Default limit on number of rooms users can create
-    config.number_of_rooms_default = 15
+    config.number_of_rooms_default = 10
 
     # Allow users to share rooms by default
     config.shared_access_default = "true"
